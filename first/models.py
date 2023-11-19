@@ -2,7 +2,7 @@ from mongoengine import connect, Document, StringField, ReferenceField, ListFiel
 
 connect(
     db="homework",
-    host="mongodb+srv://sadurskyim:123123q@flsx.tisgnah.mongodb.net/?retryWrites=true&w=majority",
+    host="mongodb+srv://sadurskyim:*******@flsx.tisgnah.mongodb.net/?retryWrites=true&w=majority",
 )
 
 
